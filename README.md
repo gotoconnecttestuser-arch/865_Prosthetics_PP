@@ -47,11 +47,11 @@ We use your information to:
 - Improve our services and patient experience
 - Comply with applicable legal and regulatory requirements
 
-Information Sharing
+Data Sharing Commitment
 
-We do not transfer, share, or disclose consumer SMS/mobile data to external organizations except as strictly necessary to provide the messaging service or when required by law.
+Your data will not be transferred to external organizations, except where required by law.
 
-We are committed to protecting consumer SMS/mobile data from unauthorized access and disclosure.
+We prohibit any transfer or disclosure of consumer data to external organizations unless legally required.
 
 Mobile opt-in data and consent will not be shared with third parties for marketing purposes.
 
