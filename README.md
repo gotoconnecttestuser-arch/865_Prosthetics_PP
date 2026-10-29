@@ -49,9 +49,9 @@ We use your information to:
 
 Information Sharing
 
-We do not sell, rent, or share your mobile information with third parties or affiliates for marketing or promotional purposes.
+We do not transfer, share, or disclose consumer SMS/mobile data to external organizations except as strictly necessary to provide the messaging service or when required by law.
 
-We may share information with service providers that assist us in operating our business and SMS communications, solely for business purposes and in compliance with applicable laws and regulations.
+We are committed to protecting consumer SMS/mobile data from unauthorized access and disclosure.
 
 Mobile opt-in data and consent will not be shared with third parties for marketing purposes.
 
